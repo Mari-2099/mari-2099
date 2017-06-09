@@ -1,6 +1,8 @@
 ## Welcome to GitHub Pages
 
-Hello I'm changing the text to see what it is that I can change.
+title: welcome to Mari-2099's homepage!
+
+description: Hello I'm changing the text to see what it is that I can change.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
